@@ -1,1 +1,3 @@
-I am a newbie on github
+Hi!
+This is first time i learn github
+The beginning has some troubles with the git bash
